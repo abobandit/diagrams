@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T02:31:45.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.5" etag="QJVZeZJQfC9AVlNd4cZT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T02:33:15.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="mtXjFD9ZsbpfRU3J29ge" version="22.1.5" type="github">
   <diagram name="Page-1" id="5mVD9fUOksgfMro6NuTg">
-    <mxGraphModel>
+    <mxGraphModel dx="1039" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5RpgYMZLRh-7Q6zlfeUE-1" value="&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; id=&quot;docs-internal-guid-8d50d7c6-7fff-bf3b-4a27-e91f346e41fe&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:680px;height:745px;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/B0-OljdphsGi6naX4rPzToHuUM9x0a0x6UC4pMafGNStsHCDiW-4YOrILZchf7331fPmQ4u1ZclVIzmAPQNkW0kx6zlZA7Gn5MPSv5Df-mCu34X37p5lObzPyo52EgCWduI3o3cEfwhkBwR7uuX5pTsodt4cMbA3&quot; width=&quot;680&quot; height=&quot;745&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="560" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="5RpgYMZLRh-7Q6zlfeUE-2" value="Ползователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RpgYMZLRh-7Q6zlfeUE-3" value="Администраор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RpgYMZLRh-7Q6zlfeUE-4" value="Авторизация" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5RpgYMZLRh-7Q6zlfeUE-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
